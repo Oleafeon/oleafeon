@@ -1,4 +1,4 @@
-# Hey there 👋 — my name is Jordy
+# Hey there 👋 — my name is Olivia
 
 I'm a front-end developer from The Netherlands 🇳🇱
 
