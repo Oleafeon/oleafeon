@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey there 👋 — my name is Jordy
 
-<!--
-**Oleafeon/oleafeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end developer from The Netherlands 🇳🇱
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ GitHub Stats
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=oleafeon&theme=dark&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oleafeon&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=10&hide_border=true)  
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=oleafeon&show_icons=true&layout=compact&theme=dark&border_radius=10&hide_border=true)
+
+![GitHub Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=oleafeon&repo=oleafeon)
